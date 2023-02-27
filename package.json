@@ -1,0 +1,29 @@
+{
+  "name": "package_sample",
+  "version": "1.0.0",
+  "description": "a node JS tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizrehman1/NodeJS_Sample.git"
+  },
+  "keywords": [
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "Faiz Rehman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizrehman1/NodeJS_Sample/issues"
+  },
+  "homepage": "https://github.com/faizrehman1/NodeJS_Sample#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "color": "^4.2.3"
+  }
+}
